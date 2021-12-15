@@ -83,12 +83,11 @@ a:hover {
   margin: 30px auto 60px;
 }
 
-
-
 .top-stars {
   position: absolute;
   right: 50px;
   top: 20px;
+  width:30%;
 }
 
 .bottom-moon {
