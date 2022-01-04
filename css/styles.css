@@ -91,10 +91,10 @@ a:hover {
 }
 
 .bottom-moon {
-  position: relative;
+  position: absolute;
   left: 25px;
   top: 100px;
-  width: 10%;
+  width: 20%;
 }
 
 .earth {
