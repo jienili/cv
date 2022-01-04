@@ -91,7 +91,7 @@ a:hover {
 }
 
 .bottom-moon {
-  position: absolute;
+  position: relative;
   left: 25px;
   top: 100px;
   width: 30%;
